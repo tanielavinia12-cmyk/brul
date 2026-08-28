@@ -1,1 +1,1 @@
-console.log("Sistema iniciado!");
+console.log("Sistema iniciadoo!");
